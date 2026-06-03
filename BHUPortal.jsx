@@ -7,7 +7,7 @@ const ADMIN_EMAIL        = "admin@bhu.ac.in";
 const ADMIN_PASS_DEFAULT = "admin2025";
 
 // ── RAZORPAY ── Replace with your actual key from dashboard.razorpay.com
-const RAZORPAY_KEY = "rzp_test_REPLACE_YOUR_KEY_HERE";
+const RAZORPAY_KEY = "razorpay.me/@bhuageuorg";
 
 const PLANS = {
   monthly: { id:"monthly", label:"Monthly",  price:19,  period:"month", desc:"₹19 / month — Cancel anytime", badge:"" },

@@ -6,7 +6,6 @@ import { useState, useEffect, useRef } from "react";
 const ADMIN_EMAIL        = "admin@bhu.ac.in";
 const ADMIN_PASS_DEFAULT = "admin2025";
 
-// ── RAZORPAY ── Replace with your actual key from dashboard.razorpay.com
 const RAZORPAY_KEY = "razorpay.me/@bhuageuorg";
 
 const PLANS = {
